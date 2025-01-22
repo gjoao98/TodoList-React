@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Preview do projeto Todo List" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
